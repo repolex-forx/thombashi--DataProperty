@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/thombashi/DataProperty/commit/e3f5cc0acd857ef68e245b3e52cfa105640784bd",
       "git:hexsha": "e3f5cc0acd857ef68e245b3e52cfa105640784bd",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.1.1",
+      "repolex:parsedAt": "2026-10-18T09:23:39.848552+00:00"
     },
     {
       "@id": "https://repolex.ai/r/thombashi/DataProperty/commit/7f74eaed335c22eea77e575488f9c8d71dd6b156",
