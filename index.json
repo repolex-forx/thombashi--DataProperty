@@ -1,0 +1,11 @@
+{
+  "org": "thombashi",
+  "repo": "DataProperty",
+  "versions": [
+    {
+      "commit": "e3f5cc0acd857ef68e245b3e52cfa105640784bd",
+      "tag": "v1.1.1",
+      "parsed_at": "2026-10-18T09:23:39.887317+00:00"
+    }
+  ]
+}
